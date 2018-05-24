@@ -1,0 +1,36 @@
+libraryDependencies
+set scalaVersion := "2.11.8"
+session save
+reload
+libraryDependencies
+set libraryDependencies += "org.apache.spark" % "spark-core_2.11" % "21.6.2"
+libraryDependencies
+set libraryDependencies += "org.apache.spark" % "spark-core_2.11" % "1.6.2"
+libraryDependencies
+session save
+reload
+libraryDependencies
+libraryDependencies += "log4j" % "log4j" % "1.2.14"
+set libraryDependencies += "org.apache.log4j" % "log4j" % "1.2.14"
+libraryDependencies
+session save
+reload
+exit
+libraryDependencies
+compile
+libraryDependencies
+compile
+run
+package
+package --help
+package -h
+exit
+reload
+compile
+package
+compile
+package
+reload
+compile
+package
+exit
